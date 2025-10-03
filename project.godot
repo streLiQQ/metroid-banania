@@ -13,7 +13,7 @@ config_version=5
 config/name="MetroidBanania"
 run/main_scene="uid://1gj8vrdrjdpt"
 config/features=PackedStringArray("4.5", "Forward Plus")
-config/icon="res://icon.svg"
+config/icon="uid://b0uqm00njtttc"
 
 [display]
 
